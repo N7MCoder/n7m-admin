@@ -1,0 +1,4 @@
+packages:    
+  - 'mock/**'
+  - 'core/**'
+  - 'app/**'
